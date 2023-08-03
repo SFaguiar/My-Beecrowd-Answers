@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class OneHundredAndTwo {
+class OneZeroZeroTwo {
     public static void main (String [] args) {
         double PI = 3.14159;
 
